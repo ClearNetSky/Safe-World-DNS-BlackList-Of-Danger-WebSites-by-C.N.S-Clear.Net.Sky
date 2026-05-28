@@ -2,7 +2,7 @@
 ! Title: Safe World DNS-BlackList Of Danger WebSites by C.N.S Clear Net Sky
 ! Description: Blacklist of extremely suicidal or killing content and pornographic sites that promote suicide
 ! Goal: Protect People and Self-Protect Your Mind and Health With BlackList of DNS | Stay Safe and Stay With Healthy Mind
-! Homepage: https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky
+! Homepage: https://github.com/ClearNetSky/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky
 ! All Protection by Organization C.N.S [ Clear-Net-Sky ] collaborated with Safe-Mind Proj.
 ! All sites are added by Technical Supports [20 Online-Supporters] or AI ( Artificial Intelligence which checks all sites every day )
 ! If you found dangerous or strange sites [ex. 18+, virus, phishing and all], write on the Requests/Issues and support will check.

@@ -1,7 +1,7 @@
 # 🛡️ Safe World DNS BlackList by C.N.S (Clear Net Sky)
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Maintained](https://img.shields.io/badge/Maintained-Yes-green.svg)](https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky)
+[![Maintained](https://img.shields.io/badge/Maintained-Yes-green.svg)](https://github.com/ClearNetSky/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky)
 
 ---
 
@@ -42,7 +42,7 @@
 ### Direct Link (RAW)
 
 ```
-https://raw.githubusercontent.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky/main/blacklist/blacklist_suicidical_and_killing.txt
+https://raw.githubusercontent.com/ClearNetSky/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky/main/blacklist/blacklist_suicidical_and_killing.txt
 ```
 
 ### How to Use
@@ -75,7 +75,7 @@ Found a dangerous website that should be blocked? Help us make the Internet safe
 
 ### How to Report
 
-1. **Open an Issue:** Go to the [Issues](https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky/issues) page
+1. **Open an Issue:** Go to the [Issues](https://github.com/ClearNetSky/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky/issues) page
 2. **Provide Details:**
    - Website URL
    - Category (gore, suicide-related, pornographic, etc.)
@@ -105,7 +105,7 @@ This project is licensed under the **GNU General Public License v3.0** - see the
 ### The Future with Cybersecurity Protection for the World
 ### Будущее с кибербезопасностью всего мира
 
-![Safe World Banner](https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky/assets/56760026/82c7cf31-9d67-40fd-8698-e5b70721c81d)
+![Safe World Banner](https://github.com/ClearNetSky/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky/assets/56760026/82c7cf31-9d67-40fd-8698-e5b70721c81d)
 
 ---
 
@@ -117,8 +117,8 @@ This blocklist is provided as-is for protective purposes. While we strive for ac
 
 ## 📞 Contact & Support
 
-- **Issues & Bug Reports:** [GitHub Issues](https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky/issues)
-- **Homepage:** [C.N.S Clear Net Sky](https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky)
+- **Issues & Bug Reports:** [GitHub Issues](https://github.com/ClearNetSky/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky/issues)
+- **Homepage:** [C.N.S Clear Net Sky](https://github.com/ClearNetSky/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky)
 
 ---
 
@@ -156,7 +156,7 @@ This blocklist is provided as-is for protective purposes. While we strive for ac
 ### Прямая ссылка (RAW)
 
 ```
-https://raw.githubusercontent.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky/main/blacklist/blacklist_suicidical_and_killing.txt
+https://raw.githubusercontent.com/ClearNetSky/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky/main/blacklist/blacklist_suicidical_and_killing.txt
 ```
 
 ### Как использовать
@@ -189,7 +189,7 @@ https://raw.githubusercontent.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Dan
 
 ### Как сообщить
 
-1. **Откройте Issue:** Перейдите на страницу [Issues](https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky/issues)
+1. **Откройте Issue:** Перейдите на страницу [Issues](https://github.com/ClearNetSky/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky/issues)
 2. **Предоставьте детали:**
    - URL веб-сайта
    - Категория (gore, связанный с суицидом, порнографический и т.д.)
@@ -219,7 +219,7 @@ https://raw.githubusercontent.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Dan
 ### The Future with Cybersecurity Protection for the World
 ### Будущее с кибербезопасностью всего мира
 
-![Safe World Banner](https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky/assets/56760026/82c7cf31-9d67-40fd-8698-e5b70721c81d)
+![Safe World Banner](https://github.com/ClearNetSky/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky/assets/56760026/82c7cf31-9d67-40fd-8698-e5b70721c81d)
 
 ---
 
@@ -231,8 +231,8 @@ https://raw.githubusercontent.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Dan
 
 ## 📞 Контакты и поддержка
 
-- **Issues и сообщения об ошибках:** [GitHub Issues](https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky/issues)
-- **Главная страница:** [C.N.S Clear Net Sky](https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky)
+- **Issues и сообщения об ошибках:** [GitHub Issues](https://github.com/ClearNetSky/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky/issues)
+- **Главная страница:** [C.N.S Clear Net Sky](https://github.com/ClearNetSky/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky)
 
 ---
 
